@@ -115,12 +115,3 @@ Smoking\_Classification/
 
 ```
 
----
-
-## Future Improvements
-
-- Address gender imbalance for fairer model generalization.
-- Integrate SHAP or LIME for feature importance interpretation.
-- Try ensemble stacking or advanced boosting models like XGBoost or CatBoost.
-- Develop a Streamlit-based frontend to interact with predictions.
-
